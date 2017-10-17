@@ -63,3 +63,13 @@ public class ContactRequestStateMachine extends EnumStateMachineConfigurerAdapte
 ```
 
 # Test class ApplicationTest
+
+# Resources
+[UML state machine, Wikipedia](https://en.wikipedia.org/wiki/UML_state_machine)
+Very good explanation on Wikipedia
+
+[Spring Reference Documentation, based on Showcase sample](https://docs.spring.io/spring-statemachine/docs/1.2.6.RELEASE/reference/htmlsingle/#statemachine-examples-showcase)
+Spring Documentation with lots of samples and [crash course in the appendix](https://docs.spring.io/spring-statemachine/docs/1.2.6.RELEASE/reference/htmlsingle/#crashcourse)
+
+[Spring Statemachine project site](https://projects.spring.io/spring-statemachine/)
+
